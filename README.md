@@ -1,4 +1,4 @@
-# 🌍 Microsoft Fabric Tourism Analytics
+# 🌍 Microsoft Fabric Tourism Analytics 
 
 An end-to-end data analytics project built using **Microsoft Fabric, Lakehouse, PySpark, Semantic Model, Data Pipeline, and Power BI** to analyse tourism performance and turn data into actionable business insights.
 
