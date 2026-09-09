@@ -42,7 +42,7 @@ Business Insights & Recommendations
 
 ## 📊 Tourism Analytics Dashboard
 
-![Tourism Analytics Dashboard](screenshots/06-tourism-dashboard.png)
+![Tourism Analytics Dashboard](screenshots/06-tourism-Insights-dashboard.png)
 
 ### Key KPIs
 
